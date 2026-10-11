@@ -47,3 +47,24 @@ If the exercise isn't ready in 20 seconds:
 ---
 
 &copy; 2026 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+
+## My Markdown Practice
+
+### Header Example
+This is a header level 3.
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
+
+### Code Example
+```python
+def hello_world():
+    print("Hello, World!")
+    return True
+```
+
+### Task List
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Make a task list (this item is incomplete on purpose to show a list)
